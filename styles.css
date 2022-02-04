@@ -1,3 +1,8 @@
-body{
-    background-color: red;
+#caption{
+    background: linear-gradient(rgb(207, 207, 240), rgb(250, 244, 244));
+    background-repeat: no-repeat;
+    text-align: center;
+}
+navbar {
+    position: fixed;
 }
