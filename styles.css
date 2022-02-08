@@ -1,3 +1,7 @@
+body {
+    background: linear-gradient( rgb(250, 244, 244),rgb(207, 207, 240));
+    background-repeat: no-repeat;
+}
 #caption{
     background: linear-gradient(rgb(207, 207, 240), rgb(250, 244, 244));
     background-repeat: no-repeat;
@@ -6,4 +10,7 @@
 }
 navbar {
     position: fixed;
+}
+.carousel-caption {
+    background: rgba(0,0,0, 0.4); color: white;
 }
